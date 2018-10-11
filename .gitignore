@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-
+/src/api_key
 # testing
 /coverage
 
